@@ -6,7 +6,6 @@
   ],
   "license": "MIT",
   "homepage": "http://blockify.co",
-  "private": true,
   "template": {
     "@type": "Thing",
     "name": "&copy; Blockify - Built with <a href='http://blockify.co' target='_blank'>Blockify</a>",
