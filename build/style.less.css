@@ -1,0 +1,54 @@
+.footer-articles-newsletter {
+  background-color: #505050;
+  display: block;
+}
+.footer-articles-newsletter .item {
+  background-color: #696969;
+  border-radius: 0 0 5px 5px;
+  color: #a7a7a7;
+  text-align: center;
+  margin-top: 55px;
+}
+.footer-articles-newsletter .item h2 {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+.footer-articles-newsletter .item img {
+  margin: -40px auto 0px;
+}
+.footer-articles-newsletter #mc_embed_signup {
+  background-color: #e5e5e5;
+  text-align: center;
+  border-radius: 5px;
+  padding: 10px 0;
+  margin: 20px 0;
+  color: #878787;
+}
+.footer-articles-newsletter #mc_embed_signup #mce-EMAIL {
+  width: 70%;
+  padding: 5px 10px;
+  border-radius: 4px;
+  border: 0;
+}
+.footer-articles-newsletter #mc_embed_signup #mc-embedded-subscribe {
+  background-color: #8e44ad;
+  color: #fff;
+  border: 0;
+  padding: 5px 15px;
+  border-radius: 4px;
+}
+.footer-articles-newsletter #mc_embed_signup label {
+  color: #4d4d4d;
+  margin-top: 5px;
+}
+.footer-articles-newsletter #mc_embed_signup label span {
+  font-weight: normal;
+  margin-left: 10px;
+}
+.footer-articles-newsletter.copyright {
+  background-color: #f3f3f3;
+  color: #969696;
+  padding: 20px 0;
+  text-align: center;
+}

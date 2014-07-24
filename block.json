@@ -1,0 +1,45 @@
+{
+  "name": "footer-articles-newsletter",
+  "version": "0.1.0",
+  "authors": [
+    "Steve North <steve@62design.co.uk>"
+  ],
+  "license": "MIT",
+  "homepage": "http://blockify.co",
+  "private": true,
+  "template": {
+    "@type": "Thing",
+    "name": "&copy; Blockify - Built with <a href='http://blockify.co' target='_blank'>Blockify</a>",
+    "url": "//blockify.us8.list-manage.com/subscribe/post?u=e6d17630fcb33452412e766d5&amp;id=039f558e85",
+    "description": "Want to keep up with the latest news from Blockify? <span class='no-bold'>Sign-up to our newsletter</span>",
+    "@list": {
+      "@type": "Thing",
+      "@value": [
+        {
+          "@type": "Article",
+          "image": "holder.js/185x185",
+          "name": "Item Title",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+          "@type": "Article",
+          "image": "holder.js/185x185",
+          "name": "Item Title",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+          "@type": "Article",
+          "image": "holder.js/185x185",
+          "name": "Item Title",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+          "@type": "Article",
+          "image": "holder.js/185x185",
+          "name": "Item Title",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }
+      ]
+    }
+  }
+}
